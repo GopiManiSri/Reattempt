@@ -1,0 +1,17 @@
+2021-11-18 12:22:18,126  INFO [main] ReadPropertyFile:27 - navigation to url
+2021-11-18 12:23:07,230  INFO [main] ReadPropertyFile:29 - navigation to url
+2021-11-18 12:24:22,590  INFO [main] ReadPropertyFile:43 - Desired item found in  page
+2021-11-18 12:24:58,046  INFO [main] ReadPropertyFile:29 - navigation to url
+2021-11-18 12:25:24,954  INFO [main] ReadPropertyFile:38 - Desired item found in  page
+2021-11-18 12:25:50,686  INFO [main] ReadPropertyFile:34 - navigation to url
+2021-11-18 12:26:21,528  INFO [main] ReadPropertyFile:53 - Desired item found in  page
+2021-11-18 12:26:28,707 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-18 12:26:28,710 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-18 12:26:28,713 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-18 12:26:28,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-18 12:26:28,716 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lucky/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-18 12:26:29,238 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-18 12:26:29,239 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-18 12:26:29,240 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-18 12:26:29,240 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-18 12:26:29,242 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lucky/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

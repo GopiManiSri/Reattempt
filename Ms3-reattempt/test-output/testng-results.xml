@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-18T12:21:46 IST" name="Suite" finished-at="2021-11-18T12:26:27 IST" duration-ms="280652">
+    <groups>
+    </groups>
+    <test started-at="2021-11-18T12:21:46 IST" name="Test" finished-at="2021-11-18T12:22:42 IST" duration-ms="56308">
+      <class name="pageobject.HomePage">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:pageobject.HomePage@194fad1]" started-at="2021-11-18T12:21:46 IST" name="initialise" finished-at="2021-11-18T12:21:52 IST" duration-ms="5965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method signature="logintest()[pri:0, instance:pageobject.HomePage@194fad1]" started-at="2021-11-18T12:21:52 IST" name="logintest" finished-at="2021-11-18T12:22:18 IST" duration-ms="25621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pageobject.HomePage@194fad1]" started-at="2021-11-18T12:22:41 IST" name="close" finished-at="2021-11-18T12:22:42 IST" duration-ms="1601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pageobject.HomePage -->
+    </test> <!-- Test -->
+    <test started-at="2021-11-18T12:22:43 IST" name="TestCase1" finished-at="2021-11-18T12:24:25 IST" duration-ms="101985">
+      <class name="pageobject.TestCase1">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:pageobject.TestCase1@4dc27487]" started-at="2021-11-18T12:22:43 IST" name="initialise" finished-at="2021-11-18T12:22:53 IST" duration-ms="10596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method signature="testCase1()[pri:0, instance:pageobject.TestCase1@4dc27487]" started-at="2021-11-18T12:22:53 IST" name="testCase1" finished-at="2021-11-18T12:24:22 IST" duration-ms="88656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pageobject.TestCase1@4dc27487]" started-at="2021-11-18T12:24:23 IST" name="close" finished-at="2021-11-18T12:24:25 IST" duration-ms="2283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pageobject.TestCase1 -->
+    </test> <!-- TestCase1 -->
+    <test started-at="2021-11-18T12:24:25 IST" name="TestCase2" finished-at="2021-11-18T12:25:26 IST" duration-ms="60991">
+      <class name="pageobject.TestCase2">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:pageobject.TestCase2@7dfb0c0f]" started-at="2021-11-18T12:24:25 IST" name="initialise" finished-at="2021-11-18T12:24:33 IST" duration-ms="7939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method signature="testcase2()[pri:0, instance:pageobject.TestCase2@7dfb0c0f]" started-at="2021-11-18T12:24:33 IST" name="testcase2" finished-at="2021-11-18T12:25:24 IST" duration-ms="51685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pageobject.TestCase2@7dfb0c0f]" started-at="2021-11-18T12:25:25 IST" name="close" finished-at="2021-11-18T12:25:26 IST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pageobject.TestCase2 -->
+    </test> <!-- TestCase2 -->
+    <test started-at="2021-11-18T12:25:26 IST" name="TestCase3" finished-at="2021-11-18T12:26:27 IST" duration-ms="60811">
+      <class name="pageobject.TestCase3">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:pageobject.TestCase3@14dd7b39]" started-at="2021-11-18T12:25:26 IST" name="initialise" finished-at="2021-11-18T12:25:34 IST" duration-ms="8498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method signature="testcase3()[pri:0, instance:pageobject.TestCase3@14dd7b39]" started-at="2021-11-18T12:25:34 IST" name="testcase3" finished-at="2021-11-18T12:26:22 IST" duration-ms="47773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pageobject.TestCase3@14dd7b39]" started-at="2021-11-18T12:26:23 IST" name="close" finished-at="2021-11-18T12:26:27 IST" duration-ms="3677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pageobject.TestCase3 -->
+    </test> <!-- TestCase3 -->
+  </suite> <!-- Suite -->
+</testng-results>
